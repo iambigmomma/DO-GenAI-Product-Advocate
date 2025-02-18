@@ -13,7 +13,7 @@ export default function Home() {
         </h2>
 
         <p className="text-gray-700 mb-6">
-          Deploy API routes, static frontend, databases, and more.
+          Build up AI agents, guardrails, RAG in a few clicks.
         </p>
 
         <div className="sm:flex">
